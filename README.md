@@ -1,6 +1,7 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
-
+# Name : Shaam R
+# Reg.no : 26009758
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -41,6 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="1448" height="1086" alt="Ex 3 1 Shaam R" src="https://github.com/user-attachments/assets/9aea529e-85b7-49eb-8bc5-2b75bc3d2b7f" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
